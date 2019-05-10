@@ -1,0 +1,52 @@
+RadeonVII gfx906
+03:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Vega 20 (rev c1)
+
+
+miopen-hip/Ubuntu 16.04,now 1.7.1 amd64 [installed]
+miopen-opencl/Ubuntu 16.04 1.7.1 amd64
+miopengemm/Ubuntu 16.04,now 1.1.5 amd64 [installed]
+ruby-termios/xenial 1.0.0-1build6 amd64
+
+
+hip-thrust/Ubuntu 16.04 1.8.2 all
+hip_base/Ubuntu 16.04,now 1.5.19025 amd64 [installed,automatic]
+hip_doc/Ubuntu 16.04,now 1.5.19025 amd64 [installed,automatic]
+hip_hcc/Ubuntu 16.04,now 1.5.19025 amd64 [installed,automatic]
+hip_nvcc/Ubuntu 16.04 1.5.19025 amd64
+hip_samples/Ubuntu 16.04,now 1.5.19025 amd64 [installed,automatic]
+hipblas/Ubuntu 16.04,now 0.12.2.0 amd64 [installed,automatic]
+hipsparse/Ubuntu 16.04 1.0.2.0 amd64
+
+
+rocalution/Ubuntu 16.04 1.3.7.0 amd64
+rocblas/Ubuntu 16.04,now 2.0.1.0 amd64 [installed,automatic]
+rocfft/Ubuntu 16.04,now 0.8.9.0 amd64 [installed,automatic]
+rock-dkms/Ubuntu 16.04,now 2.1-96 all [installed,automatic]
+rockdodger/xenial 1.0.2-1 amd64
+rocksndiamonds/xenial 3.3.0.1+dfsg1-3 amd64
+rocm-clang-ocl/Ubuntu 16.04,now 0.4.0-7ce124f amd64 [installed,automatic]
+rocm-cmake/Ubuntu 16.04 0.2.0-2291dd7 amd64
+rocm-dev/Ubuntu 16.04,now 2.1.96 amd64 [installed]
+rocm-device-libs/Ubuntu 16.04,now 0.0.1 amd64 [installed]
+rocm-dkms/Ubuntu 16.04,now 2.1.96 amd64 [installed]
+rocm-libs/Ubuntu 16.04,now 2.1.96 amd64 [installed]
+rocm-opencl/Ubuntu 16.04,now 1.2.0-2019020110 amd64 [installed]
+rocm-opencl-dev/Ubuntu 16.04,now 1.2.0-2019020110 amd64 [installed]
+rocm-profiler/Ubuntu 16.04,now 5.6.7254 amd64 [installed]
+rocm-smi/Ubuntu 16.04,now 1.0.0-100-g3cacdb9 amd64 [installed,automatic]
+rocm-utils/Ubuntu 16.04,now 2.1.96 amd64 [installed]
+rocm_bandwidth_test/Ubuntu 16.04 1.0.0 amd64
+rocm_smi64/Ubuntu 16.04 0.1.1 amd64
+rocminfo/Ubuntu 16.04,now 1.0.0 amd64 [installed,automatic]
+rocprofiler-dev/Ubuntu 16.04,now 1.0.0 amd64 [installed,automatic]
+rocr_debug_agent/Ubuntu 16.04,now 1.0.0 amd64 [installed,automatic]
+rocrand/Ubuntu 16.04,now 1.8.2 amd64 [installed,automatic]
+rocs/xenial 4:15.12.3-0ubuntu1 amd64
+rocsparse/Ubuntu 16.04 1.0.1.0 amd64
+roctracer-dev/Ubuntu 16.04 1.0.0 amd64
+roctracer-proto/Ubuntu 16.04 1.0.0 amd64
+
+
+
+Keras                         2.2.2
+tensorflow-rocm               1.12.0                 
